@@ -1,5 +1,5 @@
-# Crop_disease_detection
-# Crop Disease Detection Using CNN 🌾🤖
+
+# Crop Disease Detection 🌾🤖
 
 ## Overview
 This project focuses on detecting various crop diseases using Convolutional Neural Networks (CNNs). By leveraging deep learning techniques and image classification, the model can identify diseases from leaf images, helping farmers and agronomists monitor and manage crops more efficiently. The project can be used for early disease detection to mitigate potential agricultural losses and promote healthy crop yields.
@@ -83,10 +83,10 @@ Sample predictions:
 
 | Input Image | Prediction | Confidence |
 |-------------|------------|------------|
-| ![Leaf Image](sample_image1.jpg) | Tomato Yellow Leaf | 95.6% |
-| ![Leaf Image](sample_image2.jpg) | Potato Early bright | 92.1% |
-| ![Leaf Image](sample_image1.jpg) | Corn Gray Spot | 95.6% |
-| ![Leaf Image](sample_image2.jpg) | Corn Early Bright | 92.1% |
+| ![Leaf Image](https://github.com/user-attachments/assets/2b90d65f-6f9f-490b-b600-49350c45b462) | Tomato Yellow Leaf | 95.6% |
+| ![Leaf Image](https://github.com/user-attachments/assets/5f359beb-9555-41f1-8590-7de147303f60) | Potato Early bright | 98.51% |
+| ![Leaf Image](https://github.com/user-attachments/assets/707303e5-7f26-4521-a87f-1cbbc98268d9) | Corn Gray Spot | 100% |
+| ![Leaf Image](https://github.com/user-attachments/assets/6cfbc8ad-1119-428c-93f4-1e952c3d03af) | Corn Early Bright | 98.51% |
 
 
 
